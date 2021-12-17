@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          I'm a recent grad of Makers Academy in London and am now looking for my first job as a junior software engineer.
+          I`&apos;`m a recent grad of Makers Academy in London and am now looking for my first job as a junior software engineer.
         </p>
 
         <p className={styles.description}>
